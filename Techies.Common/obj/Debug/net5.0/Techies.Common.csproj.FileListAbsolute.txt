@@ -1,0 +1,15 @@
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\bin\Debug\net5.0\Techies.Common.deps.json
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\bin\Debug\net5.0\Techies.Common.dll
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\bin\Debug\net5.0\Techies.Common.pdb
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.csproj.AssemblyReference.cache
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.AssemblyInfoInputs.cache
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.AssemblyInfo.cs
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.csproj.CoreCompileInputs.cache
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.dll
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\refint\Techies.Common.dll
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.pdb
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\ref\Techies.Common.dll
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\bin\Debug\net5.0\Techies.Data.dll
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\bin\Debug\net5.0\Techies.Data.pdb
+C:\Users\Sandesh.Maharjan\Desktop\Techies\Techies.Common\obj\Debug\net5.0\Techies.Common.csproj.CopyComplete
