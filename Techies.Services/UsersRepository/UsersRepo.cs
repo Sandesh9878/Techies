@@ -7,5 +7,6 @@ namespace Techies.Services.UsersRepository
     public class UsersRepo : EfCoreRepository<User>, IUserRepository
     {
         public UsersRepo(TechiesContext context) : base(context) { }
+
     }
 }

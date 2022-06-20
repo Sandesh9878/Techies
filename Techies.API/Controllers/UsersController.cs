@@ -20,7 +20,7 @@ namespace Techies.API.Controllers
 
         public UsersController(IJWTManagerRepository jWTManager, IUserRepository userRepository)
         {
-            this._jWTManager = jWTManager;
+            _jWTManager = jWTManager;
             _userRepository = userRepository;
         }
 
@@ -72,9 +72,10 @@ namespace Techies.API.Controllers
                         Password = users.Password
                     };
                     _userRepository.Add(userData);
-                    
+
                     return Ok();
-                }catch(Exception ex)
+                }
+                catch (Exception ex)
                 {
                     return BadRequest();
                 }
@@ -84,5 +85,9 @@ namespace Techies.API.Controllers
                 return BadRequest();
             }
         }
+        //public IActionResult ChangePassword()
+        //{
+
+        //}
     }
 }

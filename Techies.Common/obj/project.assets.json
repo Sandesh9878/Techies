@@ -5721,19 +5721,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sandesh.Maharjan\\.nuget\\packages\\": {}
+    "C:\\Users\\Rasana.pathak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Common\\Techies.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Common\\Techies.Common.csproj",
       "projectName": "Techies.Common",
-      "projectPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Common\\Techies.Common.csproj",
-      "packagesPath": "C:\\Users\\Sandesh.Maharjan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Common\\obj\\",
+      "projectPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Common\\Techies.Common.csproj",
+      "packagesPath": "C:\\Users\\Rasana.pathak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sandesh.Maharjan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rasana.pathak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5747,8 +5747,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Data\\Techies.Data.csproj": {
-              "projectPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Data\\Techies.Data.csproj"
+            "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Data\\Techies.Data.csproj": {
+              "projectPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Data\\Techies.Data.csproj"
             }
           }
         }

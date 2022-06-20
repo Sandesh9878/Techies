@@ -17,6 +17,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Techies.Common.ServiceExtensions.RepositoryPatternExtension;
 using Techies.Data;
+using Techies.Services.CURDRepository;
+using Techies.Services.HomeRepository;
 using Techies.Services.JwtWebAuthentication;
 using Techies.Services.UsersRepository;
 
@@ -28,6 +30,11 @@ namespace Techies.API
         {
             Configuration = configuration;
         }
+
+
+        /// <summary>
+        /// /
+        /// </summary>
 
         public IConfiguration Configuration { get; }
 
@@ -58,6 +65,9 @@ namespace Techies.API
 
             services.AddSingleton<IJWTManagerRepository, JWTManagerRepository>();
             services.AddScoped<IUserRepository, UsersRepo>();
+            services.AddScoped<IHomeRepository, HomeRepository>();
+            services.AddScoped<ICURDRepository, CURDRepository>();
+
 
             services.AddMemoryCache();
             services.AddControllers();
@@ -65,6 +75,7 @@ namespace Techies.API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Techies.API", Version = "v1" });
             });
+            services.AddCors();
 
         }
 

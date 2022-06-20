@@ -4,5 +4,5 @@ using Techies.Data;
 
 namespace Techies.Services.UsersRepository
 {
-    public interface IUserRepository : IRepository<User> { }
+    public interface IUserRepository : IRepository<User> {}
 }

@@ -34,7 +34,7 @@ namespace Techies.Services.JwtWebAuthentication
                 {
                     new Claim(ClaimTypes.Name, users.Name)
                 }),
-                Expires = DateTime.UtcNow.AddMinutes(10),
+                Expires = DateTime.UtcNow.AddHours(10),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(tokenKey), SecurityAlgorithms.HmacSha256Signature)
             };
             var token = tokenHandler.CreateToken(tokenDescriptor);

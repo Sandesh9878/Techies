@@ -5576,19 +5576,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sandesh.Maharjan\\.nuget\\packages\\": {}
+    "C:\\Users\\Rasana.pathak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.API\\Techies.API.csproj",
+      "projectUniqueName": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.API\\Techies.API.csproj",
       "projectName": "Techies.API",
-      "projectPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.API\\Techies.API.csproj",
-      "packagesPath": "C:\\Users\\Sandesh.Maharjan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.API\\obj\\",
+      "projectPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.API\\Techies.API.csproj",
+      "packagesPath": "C:\\Users\\Rasana.pathak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sandesh.Maharjan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rasana.pathak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5602,14 +5602,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Common\\Techies.Common.csproj": {
-              "projectPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Common\\Techies.Common.csproj"
+            "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Common\\Techies.Common.csproj": {
+              "projectPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Common\\Techies.Common.csproj"
             },
-            "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Data\\Techies.Data.csproj": {
-              "projectPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Data\\Techies.Data.csproj"
+            "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Data\\Techies.Data.csproj": {
+              "projectPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Data\\Techies.Data.csproj"
             },
-            "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Services\\Techies.Services.csproj": {
-              "projectPath": "C:\\Users\\Sandesh.Maharjan\\Desktop\\Techies\\Techies.Services\\Techies.Services.csproj"
+            "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Services\\Techies.Services.csproj": {
+              "projectPath": "C:\\Users\\Rasana.pathak\\Desktop\\Projects\\Techies\\Techies.Services\\Techies.Services.csproj"
             }
           }
         }
@@ -5657,7 +5657,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,5 +16,6 @@ namespace Techies.Common.ServiceExtensions.RepositoryPatternExtension
         void AddRange(IEnumerable<T> entities);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entities);
+        void update(T entity);  
     }
 }

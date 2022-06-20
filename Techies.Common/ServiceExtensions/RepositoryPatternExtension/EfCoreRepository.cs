@@ -40,11 +40,18 @@ namespace Techies.Common.ServiceExtensions.RepositoryPatternExtension
         public void Remove(T entity)
         {
             context.Set<T>().Remove(entity);
+            context.SaveChanges();
         }
         public void RemoveRange(IEnumerable<T> entities)
         {
             context.Set<T>().RemoveRange(entities);
         }
+      
 
+        public void update(T entity)
+        {
+            context.Set<T>().Update(entity);
+            context.SaveChanges();
+        }
     }
 }
